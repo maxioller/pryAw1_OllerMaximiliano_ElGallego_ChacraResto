@@ -2,8 +2,8 @@
 
 ## Ecommerce: El Gallego - Chacra Resto
 
-**Aplicación web desarrollada para un restorant rural y destinada a la venta de productos alimenticios mediante delivery**
+**Aplicación web desarrollada para un restaurante rural y destinada a la venta de productos alimenticios mediante delivery.**
 ---
 ### Alumno:
-- **Apellido y Nombre:** Oller, Maximiliano Andres.
+- **Apellido y Nombre:** Oller, Maximiliano Andrés.
 - **DNI:** 34.882.089.
