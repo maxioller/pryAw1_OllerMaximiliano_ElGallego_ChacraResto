@@ -38,7 +38,7 @@ export const navBarComponents = `
                   class="bi bi-person-circle"></i></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link p-0" href="../index.html" aria-label="Cerrar sesión"><i class="bi bi-box-arrow-right">
+              <a class="nav-link p-0" href="./login.html" aria-label="Cerrar sesión"><i class="bi bi-box-arrow-right">
                 </i></a>
             </li>
           </ul>
