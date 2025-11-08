@@ -1544,19 +1544,7 @@ main.login>a:hover {
   }
 
   .nosotros-collage {
-    height: auto;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-    position: static;
-    justify-content: center;
-  }
-
-  .nosotros-collage .foto {
-    position: static;
-    transform: none;
-    width: min(280px, 90%);
-    aspect-ratio: 4 / 3;
+    display: none;
   }
 
   .valores-grid {
