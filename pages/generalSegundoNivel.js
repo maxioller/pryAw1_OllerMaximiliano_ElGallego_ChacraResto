@@ -8,3 +8,5 @@ window.addEventListener('load', () => {
     navContainer.innerHTML = navBarComponents;
     footerContainer.innerHTML = footerComponents;
 })
+
+
