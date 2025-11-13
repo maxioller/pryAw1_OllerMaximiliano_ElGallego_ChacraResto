@@ -6,7 +6,7 @@ export function crearCardProducto(producto) {
     <div class="producto_detalles">
       <h3 class="producto_titulo">${producto.titulo}</h3>
       <p class="producto_detalle_ingredientes">${producto.descripcion}</p>
-      <p class="producto_precio">${producto.precio}</p>
+      <p class="producto_precio">$${producto.precio.toLocaleString("es-AR")}</p>
       <div class="contador">
         <button class="btn-restar">-</button>
         <span class="cantidad">1</span>
