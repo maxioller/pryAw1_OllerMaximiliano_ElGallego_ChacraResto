@@ -1810,3 +1810,46 @@ main.login>a:hover {
   font-size: 0.9rem;
   margin-top: 3rem;
 }
+
+.disabled {
+  display: none;
+}
+
+/* Tarjeta de perfil */
+.user-card {
+    max-width: 450px;
+    margin: 0 auto;
+    border-radius: 12px;
+    padding: 20px;
+    background: white;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+}
+
+/* Contenido interno */
+.user-card-body {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+/* Título */
+.user-title {
+    font-size: 1.7rem;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+
+/* Campos del usuario */
+.user-field {
+    font-size: 1.1rem;
+    margin: 0;
+    padding: 6px 0;  
+}
+
+/* Botón cerrar sesión */
+.user-logout {
+    align-self: center;
+    margin-top: 15px;
+    padding: 10px 22px;
+    border-radius: 25px;
+}
